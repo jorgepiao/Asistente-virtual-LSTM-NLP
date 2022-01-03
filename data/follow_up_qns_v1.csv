@@ -1,0 +1,12 @@
+cat,count,sent
+greetings,1525,Hi how can I help you
+Foreign Travel,700,I understad you want to notify us on your travel abroad
+Card Delivery,600,I will quickly check on your card delivery status
+Report Fraud,600,Please contact XXXX-XXXXX for reporting fraud
+branch_atm_locator,550,Please provide your address
+Track application,450,I will quickly check on your card application status
+Pin related,400,Sending a link for pin reset to your registered mobile phone
+Credit Limit related,400,Please contact XXXX-XXXXX for credit limit increase
+Card Cancellation,350,Please contact XXXX-XXXXX for cancellation queries
+Card Activation,350,Sending a link for card activation to your registered mobile phone
+Blocked Card,350,Sending a link for unblocking your card to your registered mobile phone
